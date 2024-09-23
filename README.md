@@ -72,6 +72,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
+# Introduction:
+My name is **Jorge Angelo M. Pangilinan**, currently a 4th year student of BS Information Technology and grateful to be part of the student education program of GitHub.
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
@@ -79,3 +82,7 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+# Changes made:
+1. Added an introduction of myself.
+
